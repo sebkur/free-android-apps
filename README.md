@@ -5,5 +5,5 @@ Android applications.
 
 | Name              | Links             |
 | ----------------- | ----------------- |
-| Transportr        | [GitHub](https://github.com/grote/Transportr) |
-| Umweltzone        | [GitHub](https://github.com/johnjohndoe/Umweltzone) |
+| Transportr        | GitHub: [grote](https://github.com/grote)/[Transportr](https://github.com/grote/Transportr) |
+| Umweltzone        | GitHub: [johnjohndoe](https://github.com/johnjohndoe)/[Umweltzone](https://github.com/johnjohndoe/Umweltzone) |
