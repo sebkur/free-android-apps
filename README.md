@@ -3,7 +3,9 @@
 This project is an attempt to collect some information about free / open source
 Android applications.
 Admittedly, there are more extensive resources available on this, such as
-[pcqpcq](https://github.com/pcqpcq)/[open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps),
+[pcqpcq](https://github.com/pcqpcq)/[open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)
+and
+[this list on Wikipedia](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications),
 but this list has a different touch.
 
 | Name              | Links             |
