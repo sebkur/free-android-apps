@@ -17,3 +17,4 @@ but this list has a different touch.
 | SMS Backup +      | GitHub: [jberkel](https://github.com/jberkel)/[sms-backup-plus](https://github.com/jberkel/sms-backup-plus), [Google Play](https://play.google.com/store/apps/details?id=com.zegoggles.smssync)
 | NFC Reader        | GitHub: [nadam](https://github.com/nadam)/[nfc-reader](https://github.com/nadam/nfc-reader), [Google Play](https://play.google.com/store/apps/details?id=se.anyro.nfc_reader)
 | K-9 Mail          | GitHub: [k9mail](https://github.com/k9mail)/[k-9](https://github.com/k9mail/k-9), [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
+| WiFiAnalyzer      | GitHub: [VREMSoftwareDevelopment](https://github.com/VREMSoftwareDevelopment)/[WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer), [Google Play](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer)
